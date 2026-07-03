@@ -1,9 +1,9 @@
-# Gemini Chatbot
+# Gemini AI Chatbot
 
-A modern chatbot interface powered by AI, built with React.
+A modern, responsive conversational interface powered by Google's Gemini AI.
 
-## Stack
-- **React** (via Vite)
-- **Docx**: For exporting or handling document generations.
+## 🤖 Tech Stack
 
-This project demonstrates how to integrate modern AI chat capabilities into a responsive React frontend.
+- **React & Vite**: Provides a fast, hot-reloading development environment and an optimized production build.
+- **Gemini API Integration**: Communicates directly with the Gemini language models for real-time natural language processing and generation.
+- **Docx Integration**: Incorporates the `docx` library, allowing users to instantly export their AI conversations or generated content into perfectly formatted Microsoft Word documents.
